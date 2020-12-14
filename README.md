@@ -9,3 +9,5 @@ https://github.com/ONyambura/mythic_progbar
 Düzkontak Sistemi
 
 Discord sunucum: https://discord.gg/kvfWuMj6FN
+
+Not: Kurulumunu ve kullanımını discord sunucumda anlattım.
